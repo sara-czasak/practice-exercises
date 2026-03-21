@@ -25,10 +25,16 @@ while not approved:
                         approved = True
 
     if not long_enough:
-        print("Password too short")
+        print("*X* Password too short")
+    else:
+        print("*✔* Password passed length check")
     if not has_num:
-        print("Must contain at least one number")
+        print("*X* Must contain at least one number")
+    else:
+        print("*✔* Password passed digit test")
     if not has_upper:
-        print("Must contain at least one uppercase letter")
+        print("*X* Must contain at least one uppercase letter")
+    else:
+        print("*✔* Password passed uppercase test")
 
-print("Approved")
+print("*** ALL TESTS PASSED, PASSWORD APPROVED ***")
