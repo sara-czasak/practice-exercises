@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b06679a6-19be-4817-b362-d62f7cfb96ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise91.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ten_more_countries.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise92.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_to_sort/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_to_sort/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_to_sort/file3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_to_sort/file4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_to_sort/file5.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_csv.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data_csv.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/database.db" beforeDir="false" afterPath="$PROJECT_DIR$/database.db" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
     "Python.exercise89.executor": "Run",
     "Python.exercise90.executor": "Run",
     "Python.exercise91.executor": "Run",
+    "Python.exercise92.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -68,12 +71,13 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/sarap/py_dev/Exercises",
+    "last_opened_file_path": "C:/Users/sarap/py_dev/Exercises/files_to_sort",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\sarap\py_dev\Exercises\files_to_sort" />
       <recent name="C:\Users\sarap\py_dev\Exercises" />
     </key>
   </component>
