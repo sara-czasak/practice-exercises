@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b06679a6-19be-4817-b362-d62f7cfb96ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/countries_raw.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise84.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise85.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countries_missing.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise86.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise87.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     "Python.exercise83.executor": "Run",
     "Python.exercise84.executor": "Run",
     "Python.exercise85.executor": "Run",
+    "Python.exercise86.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
