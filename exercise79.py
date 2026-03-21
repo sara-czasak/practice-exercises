@@ -10,15 +10,25 @@ while not approved:
     min_length = 5
     uppercase_list = list(string.ascii_uppercase)
     numbers_list = list(string.digits)
+    long_enough = False
+    has_upper = False
+    has_num = False
 
     if len(password) >= min_length:
-
+        long_enough = True
         for char in password:
             if char in uppercase_list:
-
+                has_upper = True
                 for char2 in numbers_list:
                     if char2 in password:
-
+                        has_num = True
                         approved = True
+
+    if not long_enough:
+        print("Password too short")
+    if not has_num:
+        print("Must contain at least one number")
+    if not has_upper:
+        print("Must contain at least one uppercase letter")
 
 print("Approved")
