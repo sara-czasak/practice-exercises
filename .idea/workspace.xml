@@ -5,12 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b06679a6-19be-4817-b362-d62f7cfb96ef" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/exercise92.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_sort/file1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_sort/file2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_sort/file3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_sort/file4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files_to_sort/file5.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files_to_sort/exercise93.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level11/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level11/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level11/4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level12/6.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level12/level121/3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level12/level121/5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/subdirs/level12/level121/6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +66,7 @@
     "Python.exercise90.executor": "Run",
     "Python.exercise91.executor": "Run",
     "Python.exercise92.executor": "Run",
+    "Python.exercise93.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -78,6 +81,9 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\sarap\py_dev\Exercises\files_to_sort" />
+      <recent name="C:\Users\sarap\py_dev\Exercises" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\sarap\py_dev\Exercises" />
     </key>
   </component>
